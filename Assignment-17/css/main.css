@@ -1,0 +1,353 @@
+@font-face {
+    font-family: "Poppins-Regular";
+    src: url("./../fonts/Poppins-Regular.ttf");
+}
+
+@font-face {
+    font-family: "Poppins-Regular";
+    src: url("./../fonts/Poppins-Regular.ttf");
+}
+
+* {
+    font-family: "Poppins-Regular";
+    padding: 0px;
+    margin: 0px;
+}
+
+#table-1 {
+    width: 100%;
+    height: 35px;
+    background-color: #136fcb;
+}
+
+#row-1 {
+    width: 100%;
+}
+
+#r1-c1 {
+    width: 5%;
+    height: 35px;
+}
+
+#r1-c2 {
+    width: 1%;
+}
+
+#logo {
+    width: 30px;
+    height: 30px;
+    color: #fff;
+
+}
+
+#r1-c3 {
+    color: #fff;
+    width: 25%;
+    font-size: 12px;
+}
+
+#r1-c4 {
+    width: 53%;
+}
+
+#r1-c5 {
+    color: #fff;
+    font-size: 17px;
+}
+
+#r1-c6 {
+    color: #fff;
+    font-size: 17px;
+}
+
+#div-2 {
+    height: 85px;
+    position: sticky;
+    top: 0;
+    z-index: 5000;
+}
+
+#table-2 {
+    background-color: #fff;
+    width: 100%;
+    height: 95px;
+    border: none;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+#r2-c1 {
+    width: 5%;
+
+}
+
+#r2-c2 {
+    width: 10%;
+}
+
+#logo2 {
+    width: 180px;
+    height: 90px;
+}
+
+#r2-c3 {
+    width: 5%;
+}
+
+#r2-c4 {
+    width: 7%;
+    font-weight: bold;
+    font-size: 17px;
+
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+/* 
+a:focus {
+    color: #136fcb;
+} */
+.active{
+    color: #136fcb;
+}
+
+a:active {
+    color: #136fcb;
+}
+
+#r2-c5 {
+    width: 8%;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+#r2-c6 {
+    width: 8%;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+#r2-c7 {
+    width: 8%;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+#r2-c8 {
+    width: 7%;
+}
+
+#r2-c9 {
+    width: 9%;
+    font-weight: bold;
+    font-size: 19px;
+    color: #136fcb;
+}
+
+#r2-c10 {
+    width: 5%;
+}
+
+#m1 {
+    width: 55px;
+    height: 55px;
+}
+
+#r2-c11 {
+    width: 9%;
+    font-weight: bold;
+    font-size: 19px;
+    color: #136fcb;
+}
+
+#r2-c12 {
+    width: 10%;
+    text-align: center;
+}
+
+#t1 {
+    border: none;
+    width: 160px;
+    height: 50px;
+    background-color: #136fcb;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+#button-icon {
+    width: 27px;
+    height: 25px;
+    padding-left: 8px;
+    vertical-align: middle;
+}
+
+#button-text {
+    color: #fff;
+    font-size: 14px;
+}
+
+#number1 {
+    font-size: 17px;
+
+}
+#table-21 {
+    width: 100%;
+    height: 500px;
+    /* background-color: #146ac1; */
+    background-image: url('./../images/bg3.png');
+    background-size: cover;
+}
+
+#row-21 {
+    width: 100%;
+    height: 500px;
+    /* background-color: #146ac1; */
+}
+
+#r21-c1 {
+    width: 27%;
+    vertical-align: top;
+    padding-left: 40px;
+    padding-top: 60px;
+}
+
+#logo-b {
+    width: 200px;
+    height: 64px;
+    vertical-align: top;
+    margin-bottom: 25px;
+}
+
+#r21-p {
+    font-size: 19.54px;
+    color: #fff;
+    padding-top: 20px;
+}
+
+#r21-h {
+    font-size: 30px;
+    color: #fff;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+#icons {
+    width: 35px;
+    height: 35px;
+    margin-top: 10px;
+    padding-left: 5px;
+}
+
+#icons-f {
+    width: 35px;
+    height: 35px;
+    margin-top: 10px;
+    padding-left: 0px;
+}
+
+#r21-c2 {
+    width: 25%;
+    vertical-align: top;
+    padding-left: 40px;
+    padding-top: 60px
+}
+
+#r21-h2 {
+    font-size: 30px;
+    color: #fff;
+    font-weight: bold;
+}
+
+#g {
+    width: 209px;
+    height: 76px;
+    margin-top: 25px;
+}
+
+#a {
+    width: 212px;
+    height: 77px;
+    margin-top: 0px;
+}
+
+#r21-c3 {
+    width: 25%;
+    vertical-align: top;
+    padding-left: 40px;
+    padding-top: 60px
+}
+
+#table-22 {
+    width: 300px;
+    height: 100px;
+    background-color: #135395;
+    margin-top: 25px;
+}
+
+#row-22 {
+    width: 300px;
+    height: 100px;
+    background-color: #135395;
+    margin-top: 25px;
+}
+
+#r22-c1 {
+    width: 80px;
+}
+
+#pn {
+    width: 60px;
+    height: 60px;
+    margin-left: -10px;
+}
+
+#r22-c2 {
+    font-size: 18px;
+    line-height: 33px;
+    padding-right: 10px;
+    color: #fff;
+}
+
+#table-23 {
+    width: 300px;
+    height: 70px;
+    background-color: #135395;
+    margin-top: 25px;
+}
+
+#row-23 {
+    width: 300px;
+    height: 70px;
+    background-color: #135395;
+    margin-top: 25px;
+}
+
+#r23-c1 {
+    width: 80px;
+}
+
+#phone-call {
+    width: 80px;
+    height: 80px;
+    margin-left: -20px;
+}
+
+#r23-c2 {
+    font-size: 18px;
+    line-height: 33px;
+    padding-right: 10px;
+    color: #fff;
+}
+
+#scan {
+    width: 180px;
+    height: 190px;
+    padding-left: 70px;
+    padding-top: 60px;
+}
+
+#r21-c4 {
+    width: 30%;
+    vertical-align: top;
+}
